@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "/03XEer5/AQSC5fPQZKWayyDFoCW1CQd3JPGmFbpaJg=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack\\wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\css\\main.3ff84ffac00847ccd575.css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.3ff84ffac00847ccd575.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.3ff84ffac00847ccd575.css"
+    },
+    {
+      "Identity": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\main.3ff84ffac00847ccd575.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.3ff84ffac00847ccd575.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.3ff84ffac00847ccd575.js"
+    }
+  ]
+}

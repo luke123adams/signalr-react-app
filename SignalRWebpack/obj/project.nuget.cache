@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wc8mXU9AgjBnJTu92JFHxiHieQBXcXlXfQplmItmAEASRlN9Ss/0vqmxGWWvdDBhzaTZBhVp/z/tTyrA2j0IOg==",
+  "dgSpecHash": "R7JPM5yQsGhzsrVRyv6fTb86dxAVoiaqPUd6hurvXXwSciMaSdBl8TQd4GVimJci0B7/hoWMDDC/bO2P3EqrPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\SignalRWebpack.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pooke\\.nuget\\packages\\microsoft.typescript.msbuild\\5.4.3\\microsoft.typescript.msbuild.5.4.3.nupkg.sha512"
+  ],
   "logs": []
 }
