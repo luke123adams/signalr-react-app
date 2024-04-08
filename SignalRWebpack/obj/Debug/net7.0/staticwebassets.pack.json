@@ -1,16 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\css\\main.3ff84ffac00847ccd575.css",
-      "PackagePath": "staticwebassets\\css\\main.3ff84ffac00847ccd575.css"
+      "Id": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\css\\main.395eac58f38e23cb6915.css",
+      "PackagePath": "staticwebassets\\css\\main.395eac58f38e23cb6915.css"
     },
     {
       "Id": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\main.3ff84ffac00847ccd575.js",
-      "PackagePath": "staticwebassets\\main.3ff84ffac00847ccd575.js"
+      "Id": "C:\\Users\\pooke\\Documents\\js projects\\SignalR React tutorial\\SignalRWebpack\\wwwroot\\main.395eac58f38e23cb6915.js",
+      "PackagePath": "staticwebassets\\main.395eac58f38e23cb6915.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",

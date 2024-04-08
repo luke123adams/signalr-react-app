@@ -1,4 +1,5 @@
 "use strict";
+
 Object.defineProperty(exports, "__esModule", { value: true });
 var signalR = require("@microsoft/signalr");
 require("./css/main.css");
