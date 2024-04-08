@@ -22,6 +22,10 @@ jobs:
           dotnet-version: '7.x'
           include-prerelease: true
 
+      - name: install signalr
+        run: dotnet tool install Microsoft.Web.LibraryManager.Cli
+
+
       - name: Build with dotnet
         run: dotnet build --configuration Release
 
